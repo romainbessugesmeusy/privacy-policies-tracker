@@ -1,0 +1,10 @@
+{
+    "name": "Criteo",
+    "identifiers": [{
+        "provider": "IAB",
+        "value": 91
+    }, {
+        "provider": "Axeptio",
+        "value": "6286519656cc8c0fa10a6386"
+    }]
+}
